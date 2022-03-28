@@ -12,10 +12,10 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://lh5.googleusercontent.com/jn-wT6Xs0-BBjYKbBGPh3AiysP1_vBdwnQ2Hyivaq8lOrubCmAN4TzOT1SVCNxi4KnHDJWOlyvzr_BXUWbpd=w1600-h412">
+  <img align="center" alt="simbolo JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="simbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="simbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Foto de Richardy Tanure" height="130" style="border-radius:50px;" src="https://imgur.com/QL2Mema.png">
 </div>
   
   ##
