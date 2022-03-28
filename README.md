@@ -1,7 +1,7 @@
 ### Olá, eu sou o Richardy Tanure!
 
-- 🔭 Trabalhando em projetos pessoais envolvendo simulações em JavaScript
-- 🌱 Estudando desenvolvimento front-end
+- 🔭 Trabalhando em projetos pessoais envolvendo simulações em JavaScript.
+- 🌱 Estudando desenvolvimento front-end.
 
 <div align="center">
   <a href="https://github.com/rTanure">
