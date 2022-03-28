@@ -2,8 +2,6 @@
 
 - 🔭 Trabalhando em projetos pessoais envolvendo simulações em JavaScript
 - 🌱 Estudando desenvolvimento front-end
-- 📫 Contete-me pelo e-mail: richardy.tanure@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/rTanure">
