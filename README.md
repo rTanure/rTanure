@@ -1,6 +1,6 @@
 ### Olá, eu sou o Richardy Tanure!
 
-- 🌱 Estudando desenvolvimento front-end.
+- 🌱 Estudando desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/rTanure">
