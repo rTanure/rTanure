@@ -1,6 +1,6 @@
 ### Olá, eu sou o Richardy Tanure!
 
-- 🌱 Estudando desenvolvimento Web na RocketSeat.
+- 🌱 Estudante de Eng. da computação na UFOP.
 
 <div align="center">
   <a href="https://github.com/rTanure">
