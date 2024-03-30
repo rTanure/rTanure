@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou o Richardy Tanure!
+## 👋 Hi, i'm Richardy Tanure!
 
-- Estudante de Eng. da computação na UFOP.
-- Desenvolvedor Web
+- Computer engineering student at the Federal University of Ouro Preto
+- Currently studying web development
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
