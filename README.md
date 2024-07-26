@@ -1,7 +1,7 @@
 ## 👋 Hi, i'm Richardy Tanure!
 
 - Computer engineering student at the Federal University of Ouro Preto
-- Currently studying web development as artificial intelligence
+- Currently studying web development and artificial intelligence
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
